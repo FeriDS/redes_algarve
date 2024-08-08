@@ -1,8 +1,7 @@
 Redes II, The University of Algarve
 
 
-# Week 01 - Introduction to computer networks
-===============
+# Week 1 - Introduction to computer networks
 
 1. The four-layer model
 
@@ -17,15 +16,15 @@ Redes II, The University of Algarve
 	2. attacks: package dropping, message forgery, message delay
 
 
-## Readings
+### Readings
 
-1. xxx
+1. K&R (Chapter 1)
 
-2. xxx
+2. **Optional**: 
 
 
-## Week 02 - The Link / Ethernet Layer
-===================================
+## Week 2 - The Link / Ethernet Layer
+
 
 1. The Ethernet protocol
 
@@ -37,15 +36,15 @@ Redes II, The University of Algarve
 
 	1. attacks: poisoning, flooding
 
-## Readings
+### Readings
 
-1. xxx
+1. K&R (Chapter 6.1, 6.4.1, 6.4.2)
 
-2. xxx
+2. **Optional**: 
 
 
-## Week 03 - The Internetwork / IP Layer
-===================================
+## Week 3 - The Internetwork / IP Layer
+
 
 1. The Internet Protocol (IP)
 
@@ -66,16 +65,15 @@ Redes II, The University of Algarve
 8. **ping** and **traceroute**
 
 
-## Readings
+### Readings
 
-1. xxx
+1. K&R (Chapters 4.3.1-4.3.3)
 
-2. xxx
+2. **Optional**: 
 
 
 
-## Week 04 - ARP and DHCP
-===================================
+## Week 4 - ARP and DHCP
 
 1. Introduction to ARP and DHCP
 
@@ -88,15 +86,15 @@ Redes II, The University of Algarve
 5. DHCP security
 
 
-## Readings
+### Readings
 
-1. xxx
+1. K&R (Chapters 4.3.3, 6.4.1, 6.7.1-6.7.2)
 
-2. xxx
+2. **Optional**: 
 
 
-## Week 05 - UDP
-===================================
+## Week 5 - UDP
+
 
 1. UDP segment
 
@@ -109,15 +107,15 @@ Redes II, The University of Algarve
 	2. Amplification attack
 
 
-## Readings
+### Readings
 
-1. xxx
+1. K&R (Chapters 4.3.3, 6.4.1, 6.7.1-6.7.2)
 
-2. xxx
+2. **Optional**:
 
 
-## Week 06 - DNS
-===================================
+## Week 6 - DNS
+
 
 1. DNS introduction
 
@@ -133,17 +131,17 @@ Redes II, The University of Algarve
 
 	2. DNS sinkholing
 
-	1. DNS amplication attacks
+	3. DNS amplification attacks
 
-## Readings
+### Readings
 
-1. xxx
+1. K&R (Chapters 2.4, 6.7.3-6.7.4)
 
-2. xxx
+2. **Optional**:
 
 
-## Week 07 - TCP
-===================================
+## Week 7 - TCP
+
 
 1. Transport Control Protocol (TCP)
 
@@ -161,15 +159,15 @@ Redes II, The University of Algarve
 
 
 
-## Readings
+### Readings
 
-1. xxx
+1. K&R (Chapters 3.4-3.4.1, 3.5)
 
-2. xxx
+2. **Optional**:
 
 
-## Week 08 - Networking outlook
-===================================
+## Week 8 - Networking outlook
+
 
 1. Application layer protocols
 
@@ -187,15 +185,15 @@ Redes II, The University of Algarve
 
 8. Long-term security
 
-## Readings
+### Readings
 
-1. xxx
+1. K&R (Chapters 7.1,7.3,7.6)
 
-2. xxx
+2. **Optional**:
 
 
-## Week 09 - TLS
-===================================
+## Week 9 - TLS
+
 
 1. TLS introduction
 
@@ -212,28 +210,58 @@ Redes II, The University of Algarve
 	4. Users
 
 
-## Readings
+### Readings
 
-1. xxx
+1. K&R (Chapters 3.4-3.4.1,3.5,8.6)
 
-2. xxx
+2. **Optional**:
 
 
 ## Week 10 - Tunnelling VPN/SSH
-===================================
-
-1. xxx
-
-2. xxxxs 
-
-## Readings
-
-1. xxx
-
-2. xxx
 
 
-Inquiries
-=======================
+1. VPN overview
+
+2. VPN use cases 
+
+3. VPN security concerns
+
+4. SSH and TOFU
+
+### Readings
+
+1. K&R (Chapters 8.7-8.7.1) 
+
+2. **Optional**:
+
+
+
+## Week 11 - Cybercrime
+
+1. Defining cybercrime
+
+2. Important terms
+
+3. Trojan and malware
+
+4. Criminology
+
+5. Attackers
+
+6. Limitations of technical defences
+
+
+
+## Bibliography
+
+1. Computer Networking: A Top-Down Approach, 7th Edition, by Kurose and Ross.
+
+2. Software Defined Networks: A Comprehensive Approach, 2nd Edition, by Goransson, Black and Culver.
+
+3. Introduction to Computer Security, 1st Edition, by Goodrich, and Tamassia.
+
+
+## Inquiries
+
 
 For any questions or issues contact Nestor Catano [nestor.catano@gmail.com](mailto:nestor.catano@gmail.com).
