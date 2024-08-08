@@ -1,1 +1,1 @@
-## This is the GitHub project website of Redes II at University of Algarve
+## Course Redes II at the University of Algarve
