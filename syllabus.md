@@ -173,7 +173,7 @@ Redes II, The University of Algarve
 
 2. HTTP 
 
-3. Websockets 
+3. Web sockets 
 
 4. WiFi and WiFi security 
 
@@ -192,8 +192,32 @@ Redes II, The University of Algarve
 2. **Optional**:
 
 
-# Week 9 - TLS
+# Week 10 - Introduction to Security
 
+1. Security in Computer Networks
+
+2. Principles of Cryptography 
+
+	1. Symmetric key cryptography
+
+	2. Public key encryption
+
+	3. Message integrity and Digital signatures
+
+			1. Cryptographic hash functions
+
+			2. Message authentication code
+
+			3. Digital signatures
+
+## Readings
+
+1. K&R (Chapters 8.1-8.3)
+
+2. **Optional**:
+
+
+# Week 11 - Securing TCP connections: SSL and TLS
 
 1. TLS introduction
 
@@ -209,16 +233,15 @@ Redes II, The University of Algarve
 
 	4. Users
 
-
 ## Readings
 
 1. K&R (Chapters 3.4-3.4.1,3.5,8.6)
 
-2. **Optional**:
+2. **Optional**: 
 
 
-# Week 10 - Tunnelling VPN/SSH
 
+# Week 12 - Tunnelling VPN/SSH
 
 1. VPN overview
 
@@ -235,23 +258,6 @@ Redes II, The University of Algarve
 2. **Optional**:
 
 
-
-# Week 11 - Cybercrime
-
-1. Defining cybercrime
-
-2. Important terms
-
-3. Trojan and malware
-
-4. Criminology
-
-5. Attackers
-
-6. Limitations of technical defences
-
-
-
 # Bibliography
 
 1. Computer Networking: A Top-Down Approach, 7th Edition, by Kurose and Ross.
@@ -264,4 +270,4 @@ Redes II, The University of Algarve
 # Inquiries
 
 
-For any questions or issues contact Nestor Catano [nestor.catano@gmail.com](mailto:nestor.catano@gmail.com).
+For any questions or issues contact Néstor Cataño [nestor.catano@gmail.com](mailto:nestor.catano@gmail.com).
