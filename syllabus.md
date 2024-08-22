@@ -18,12 +18,12 @@ Redes II, The University of Algarve
 
 ## Readings
 
-1. K&R (Chapter 1)
+1. K&R (Chapters 1.0-1.8)
 
 2. **Optional**: 
 
 
-# Week 2 - The Link / Ethernet Layer
+# Week 2 - The link (ethernet) Layer
 
 
 1. The Ethernet protocol
@@ -43,7 +43,7 @@ Redes II, The University of Algarve
 2. **Optional**: 
 
 
-# Week 3 - The Internetwork / IP Layer
+# Week 3 - The network layer
 
 
 1. The Internet Protocol (IP)
@@ -158,7 +158,6 @@ Redes II, The University of Algarve
 	5. SYN flooding
 
 
-
 ## Readings
 
 1. K&R (Chapters 3.4-3.4.1, 3.5)
@@ -192,7 +191,7 @@ Redes II, The University of Algarve
 2. **Optional**:
 
 
-# Week 10 - Introduction to Security
+# Week 10 - Software and network security
 
 1. Security in Computer Networks
 
@@ -241,7 +240,7 @@ Redes II, The University of Algarve
 
 
 
-# Week 12 - Tunnelling VPN/SSH
+# Week 12 - tunnelling: VPN/SSH
 
 1. VPN overview
 
