@@ -20,7 +20,6 @@ Redes II, The University of Algarve
 
 1. K&R (Chapters 1.0-1.8)
 
-2. **Optional**: 
 
 
 # Week 2 - The link (ethernet) Layer
@@ -40,10 +39,9 @@ Redes II, The University of Algarve
 
 1. K&R (Chapter 6.1, 6.4.1, 6.4.2)
 
-2. **Optional**: 
 
 
-# Week 3 - The network layer
+# Week 3 - The internetwork layer
 
 
 1. The Internet Protocol (IP)
@@ -69,8 +67,6 @@ Redes II, The University of Algarve
 
 1. K&R (Chapters 4.3.1-4.3.3)
 
-2. **Optional**: 
-
 
 
 # Week 4 - ARP and DHCP
@@ -89,8 +85,6 @@ Redes II, The University of Algarve
 ### Readings
 
 1. K&R (Chapters 4.3.3, 6.4.1, 6.7.1-6.7.2)
-
-2. **Optional**: 
 
 
 # Week 5 - UDP
@@ -111,7 +105,6 @@ Redes II, The University of Algarve
 
 1. K&R (Chapters 4.3.3, 6.4.1, 6.7.1-6.7.2)
 
-2. **Optional**:
 
 
 # Week 6 - DNS
@@ -137,7 +130,6 @@ Redes II, The University of Algarve
 
 1. K&R (Chapters 2.4, 6.7.3-6.7.4)
 
-2. **Optional**:
 
 
 # Week 7 - TCP
@@ -161,8 +153,6 @@ Redes II, The University of Algarve
 ## Readings
 
 1. K&R (Chapters 3.4-3.4.1, 3.5)
-
-2. **Optional**:
 
 
 # Week 8 - Networking outlook
@@ -188,7 +178,30 @@ Redes II, The University of Algarve
 
 1. K&R (Chapters 7.1,7.3,7.6)
 
-2. **Optional**:
+
+
+# Week 9 - wireless and mobile networks 
+
+1. Introduction
+
+2. Wireless links 
+
+3. IEE 802.11 wireless LANs
+
+4. Cellular internet access 
+
+5. Mobility: principles of addressing and routing to mobile users
+
+6. Mobile IP
+
+7. Handling mobility in cellular networks 
+
+8. Mobility and higher-layer protocols
+
+## Readings
+
+1. K&R (Chapter 7)
+
 
 
 # Week 10 - Software and network security
@@ -211,12 +224,11 @@ Redes II, The University of Algarve
 
 ## Readings
 
-1. K&R (Chapters 8.1-8.3)
-
-2. **Optional**:
+1. K&R (Chapters 8.1-8.3) 
 
 
-# Week 11 - Securing TCP connections: SSL and TLS
+
+# Week 11 - the Transport Layer Security (TLS)
 
 1. TLS introduction
 
@@ -236,7 +248,7 @@ Redes II, The University of Algarve
 
 1. K&R (Chapters 3.4-3.4.1,3.5,8.6)
 
-2. **Optional**: 
+2. G&T (Chapters 7.1.2,8.3)
 
 
 
@@ -254,16 +266,40 @@ Redes II, The University of Algarve
 
 1. K&R (Chapters 8.7-8.7.1) 
 
-2. **Optional**:
+
+# Week 13 - network defense
+
+1. network defense overview
+
+2. firewalls
+
+3. intrusion-detection systems
+
+4. networking testing
+
+5. zero-trust architecture
+
+## Readings
+
+1. K&R (Chapters 8.9)
+
+2. G&T (Chapters 5-5.4, 6.2, 6.3, intro, 6.3.3, 6.4) 
+
+
+# Week 14 - Summary
+
+1. Final revision of concepts
+
+2. Typ exam resolution
 
 
 # Bibliography
 
-1. Computer Networking: A Top-Down Approach, 7th Edition, by Kurose and Ross.
+1. Computer Networking: A Top-Down Approach, 7th Edition, by Kurose
+   and Ross (K&R).
 
-2. Software Defined Networks: A Comprehensive Approach, 2nd Edition, by Goransson, Black and Culver.
-
-3. Introduction to Computer Security, 1st Edition, by Goodrich, and Tamassia.
+2. Introduction to Computer Security, 1st Edition, by Goodrich, and
+   Tamassia (G&T).
 
 
 # Inquiries
