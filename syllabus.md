@@ -1,7 +1,7 @@
 Redes II, The University of Algarve
 
 
-# Week 1 - Introduction to computer networks
+# Week 1 - introduction to computer networks
 
 1. The four-layer model
 
@@ -22,7 +22,7 @@ Redes II, The University of Algarve
 
 
 
-# Week 2 - The link (ethernet) Layer
+# Week 2 - the link (ethernet) Layer
 
 
 1. The Ethernet protocol
@@ -41,7 +41,7 @@ Redes II, The University of Algarve
 
 
 
-# Week 3 - The internetwork layer
+# Week 3 - the internetwork layer
 
 
 1. The Internet Protocol (IP)
@@ -155,7 +155,7 @@ Redes II, The University of Algarve
 1. K&R (Chapters 3.4-3.4.1, 3.5)
 
 
-# Week 8 - Networking outlook
+# Week 8 - networking outlook
 
 
 1. Application layer protocols
@@ -204,7 +204,7 @@ Redes II, The University of Algarve
 
 
 
-# Week 10 - Software and network security
+# Week 10 - security
 
 1. Security in Computer Networks
 
@@ -228,7 +228,7 @@ Redes II, The University of Algarve
 
 
 
-# Week 11 - the Transport Layer Security (TLS)
+# Week 11 - TLS
 
 1. TLS introduction
 
@@ -288,7 +288,7 @@ Redes II, The University of Algarve
 
 # Week 14 - Summary
 
-1. Final revision of concepts
+1. Revision
 
 2. Typ exam resolution
 
