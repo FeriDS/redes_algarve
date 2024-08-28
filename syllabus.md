@@ -304,5 +304,5 @@ Redes II, The University of Algarve
 
 # Inquiries
 
-
-For any questions or issues contact Néstor Cataño [nestor.catano@gmail.com](mailto:nestor.catano@gmail.com).
+For any questions or issues contact Néstor Cataño
+[nestor.catano@gmail.com](mailto:nestor.catano@gmail.com).
