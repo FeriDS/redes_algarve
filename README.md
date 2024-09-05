@@ -1,4 +1,4 @@
-# Redes II, The University of Algarve 
+# Redes II - Universidade do Algarve 
 
 ## Conhecimentos Prévios recomendados
 
