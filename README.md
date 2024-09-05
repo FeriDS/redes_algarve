@@ -1,4 +1,4 @@
-# Redes II - Universidade do Algarve - Néstor Cataño (nestor.catano@gmail.com)
+# Redes II - Universidade do Algarve - Néstor Cataño
 
 ## Conhecimentos Prévios recomendados
 
