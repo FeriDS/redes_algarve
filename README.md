@@ -48,7 +48,7 @@ do prazo, obter a sua validação e obter uma nota mínima >= **8** (sobre
 
 2. Overview of packets
 
-3. Overview of security of network protocols
+3. Overview of network protocoals security
 
 	1. CIA (Confidentiality, Integrity, Availability)
 
